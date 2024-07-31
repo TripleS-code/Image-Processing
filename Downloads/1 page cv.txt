@@ -1,0 +1,190 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Original author:
+% Rahul Chauhan (http://rahulchauhan.net)
+%
+% Original repository:
+% https://github.com/rahulworld/rahulworld-Resume
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{rahulworld-resume}
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+\begin{large}
+	\headername{Siluveru Raja Viveka Vardhan}\\
+\end{large}
+Third Year (B.Tech)\\
+Bio-Medical Engineering\\ 
+at NIT Rourkela \\ 
+CGPA:8.00 till 5th Sem 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Skills}
+\noindent\rule{5cm}{0.4pt}
+\subsection{Bioinstrumentation}
+ECG,EMG,EEG,Pacemaker
+\vspace{6pt}
+\subsection{Design}
+Photoshop,Blender,GoogleSketch Up,Canva,Pics Art,Adobe Express
+\vspace{6pt}
+\subsection{Video Making}
+Power Director,Filmora,FL Studio
+\vspace{6pt}
+\subsection{}
+
+\vspace{6pt}
+\subsection{Other}
+Matlab,AutoCAD,Attention to detail,\\
+Sustainable Research,Analytical thinking
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Coursework}
+\noindent\rule{5cm}{0.4pt}
+
+Bioinstrumentation\\
+Biosignal processing\\
+Communication\\
+Analytics\\
+Image processing \\
+Biomechanics\\
+Biomaterials and Tissue Engineering\\
+Business Research Methodology\\
+
+Data Analysis
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Education} 
+\noindent\rule{5cm}{0.4pt}\\
+\datecolor{2020-2024}
+\subsection{B.Tech. in Bio-Medical Eng.}
+NIT ROURKELA \\
+CGPA : 9.2/10(Expected)\\
+\vspace{8pt}
+\datecolor{2018-2020}
+\subsection{Intermediate}
+SR JUNIOR COLLEGE, Battupalli\\
+GPA:9.2\\
+\vspace{8pt}
+\datecolor{2016-2017}
+\subsection{High School}
+Vaagdevi(Shine) High School,\\
+Naimnagar\\
+GPA:9.7
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+% \descript{BS in Computer ence}
+\hspace*{0pt}\hfill    \\
+\hspace*{0pt}\hfill    \\
+\hspace*{0pt}\hfill Sector-1, NIT Rourkela, Panposh \\
+\hspace*{0pt}\hfill Rourkela,Odisha, India \\
+\hspace*{0pt}\hfill Mob.: +91-8978570539\\
+\hspace*{0pt}\hfill Email.:\textbf{\href{mailto:vivekavardhan2002@gmail.com}{vivekavardhan2002@gmail.com}} \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\section{Experience}
+\noindent\rule{12.5cm}{0.4pt}
+\datecolor{2022-now} \runsubsection{NIT Rourkela}
+\descript{Biomedical Technician }
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+Research in ECG methodology and learning the electrocardial and cardiovascular functioning,changes,abnormalities,diseases and their prevention and cure .
+\end{minipage}
+\descriptright{ECG,Holter Monitor}
+\sectionsep
+
+\datecolor{20XX-now} \runsubsection{NIT Rourkela}
+\descript{Biomedical Engineer }
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+Worked in a tissue culture lab for scaffold and other tissue engineering materials,familiarizing with their properties,factors and their affects on body. Also worked as a technician in the lab 
+\end{minipage}
+\descriptright{Electrospinning,Freeze gelation and drying,Tissue culture}
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Achievements/Awards} 
+\noindent\rule{12.5cm}{0.4pt}
+\datecolor{20XX-now} \runsubsection{National Science Olympiad}
+\descript{Winner}
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+consecutive gold medals from the third standard till 9th standard both school and district level
+\end{minipage}
+\datecolor{20XX-now} \runsubsection{ANTHE 2017}
+\descript{Finalist}
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+In this hackathon Developed a Dapp using Blockchain which is based on smart contract.
+\end{minipage}
+\datecolor{20XX-now} \runsubsection{Digital India}
+\descript{Grand Prize Winner}
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+In this hackathon developed a web-app in which showing kashmir as paradise on earth.
+\end{minipage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SIDE PROJECT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Side Project}
+\noindent\rule{12.5cm}{0.4pt}
+\datecolor{20XX-now} \runsubsection{Earthquake Detector Using Arduino}
+\descript{Instrumentation}
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{5pt}}
+Using Arduino and accelerometer sensor to detect the signs and initial stages of earthquakes
+\end{minipage}
+\datecolor{20XX-now} \runsubsection{Pollution detection and accessing through cloud}
+\descript{Analytical}
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{5pt}}
+
+\end{minipage}
+\datecolor{20XX-now} \runsubsection{Small Project}
+\descript{Android, Data Analysis, Image Processing}
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{5pt}}
+Result Portal, Voice Calci, Cubic Bispline, Image Compression, smoothing, Fitting Curve.
+\end{minipage}
+\end{minipage} 
+\end{document}  \documentclass[]{article}
